@@ -37,6 +37,23 @@ Como utilizar:
 - Primeiramente criasse um usuário
 <img src='./src/img/create_user.png'>
 
+- Busca uma questão de acordo com o level do usuário
+<img src='./src/img/fetch_question.png'>
+
+- Responde a questão 
+<img src='./src/img/acertou_questão'>
+ou
+<img src='./src/img/errou_questão'>
+
+- Caso tenha acertado o software acumala acertos consecutivos o que fará o usuarío subir de level mais rápido, se não conseguir subir de level por acertos consecutivos também é possivel alcancar o próximo level respondendo todas as questões de forma correta mesmo que não seja consecutivamente.
+
+- <img src='./src/img/level_up.png'>
+
+
+## Modelo relacional do banco
+
+- <img src='./src/img/db'>
+
 ## Installation
 
 ```bash
