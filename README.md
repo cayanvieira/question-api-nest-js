@@ -35,7 +35,7 @@ Para essa API foi utilizado conhecimentos em :
 Como utilizar:
 
 - Primeiramente criasse um usuário
-<img href='./src/img/create_user.png'/>
+<img src='./src/img/create_user.png'>
 
 ## Installation
 
