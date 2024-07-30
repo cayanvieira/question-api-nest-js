@@ -55,7 +55,7 @@ ou
 
 ## Modelo relacional do banco
 
-- <img src='./src/img/db'>
+- <img src='./src/img/db.png'>
 
 ## Installation
 
