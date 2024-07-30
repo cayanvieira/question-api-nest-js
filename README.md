@@ -24,7 +24,18 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+API de de estudo com base em questões multipla escolha onde o usuário sobe a dificuldade das questões de acordo com seu nivel.
+
+Para essa API foi utilizado conhecimentos em :
+- Node.js
+- Nest.js
+- Postgres
+- Docker
+
+Como utilizar:
+
+- Primeiramente criasse um usuário
+<img href='./src/img/create_user.png'/>
 
 ## Installation
 
