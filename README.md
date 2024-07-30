@@ -41,9 +41,12 @@ Como utilizar:
 <img src='./src/img/fetch_question.png'>
 
 - Responde a questão 
-<img src='./src/img/acertou_questao'>
+
+<img src='./src/img/acertou_questao.png'>
+
 ou
-<img src='./src/img/errou_questao'>
+
+<img src='./src/img/errou_questao.png'>
 
 - Caso tenha acertado o software acumala acertos consecutivos o que fará o usuarío subir de level mais rápido, se não conseguir subir de level por acertos consecutivos também é possivel alcancar o próximo level respondendo todas as questões de forma correta mesmo que não seja consecutivamente.
 
